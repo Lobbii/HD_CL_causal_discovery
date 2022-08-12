@@ -1,0 +1,26 @@
+Conditional Gaussian simulation using Graph constructed by adding random forward edges
+graphsDropdownPreference = Random Foward DAG
+simulationsDropdownPreference = Conditional Gaussian
+numMeasures = 75
+numLatents = 0
+avgDegree = 2
+maxDegree = 10
+maxIndegree = 10
+maxOutdegree = 10
+connected = false
+minCategories = 3
+maxCategories = 4
+numRuns = 5
+differentGraphs = true
+randomizeColumns = true
+sampleSize = 10000
+saveLatentVars = false
+percentDiscrete = 33.0
+varLow = 1.0
+varHigh = 3.0
+coefLow = 0.1
+coefHigh = 0.3
+covSymmetric = true
+meanLow = 0.5
+meanHigh = 1.5
+dataType = categorical
