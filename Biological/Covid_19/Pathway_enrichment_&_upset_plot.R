@@ -138,6 +138,7 @@ for (idx in sig) {
 
 
 
+# generate Upser Plot
 list_COVID<-list(LF2 =gsea_list[[3]]@result$Description,LF5 =gsea_list[[4]]@result$Description,
                  LF20 =gsea_list[[5]]@result$Description,LF36 =gsea_list[[6]]@result$Description,
                  DGE = gsea.res_covid@result$Description)
