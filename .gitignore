@@ -1,0 +1,6 @@
+# Ignore .Rproj directory
+/.Rproj.user
+*.Rproj
+
+# Ignore DS_Store
+.DS_Store
